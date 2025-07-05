@@ -19,4 +19,4 @@ In 2023, the total patient count dropped to 645, with an admission rate rising t
 3. **Targeted Resource Allocation:** Departments like Cardiology and Gastroenterology, which see higher referral rates, may require additional resources to manage patient loads effectively.
 4. **Demographic Focus:** Analyze the increasing diversity in patient race data to ensure culturally sensitive care and adequate representation in staff training.
 5. **Daily Load Management:** Plan staffing and resources based on daily patient trends, with a focus on high-volume days like Fridays in 2022.
-Link to the Power BI Dashboard: [title](Hospital Dashboard Project)
+Link to the Power BI Dashboard: ([Hospital Dashboard Project](https://app.powerbi.com/groups/me/reports/fce802a2-d037-4051-a713-313ce5565bbb/81a4859f957636056074?experience=power-bi))
