@@ -1,21 +1,21 @@
 # PowerBI-Hospital-Analysis
 A comprehensive data visualization dashboard using Power BI to monitor and analyze patient data.
-Hospital Dashboard Project 
-Project Background
+## Hospital Dashboard Project 
+### Project Background
 This project was initiated to create a comprehensive data visualization dashboard using Power BI to monitor and analyze patient data for a hospital over the years 2021, 2023. The goal was to provide hospital administrators with an intuitive tool to track key metrics such as total patient numbers, admission rates, average wait times, and patient satisfaction. By leveraging real-time data, the dashboard aims to support data-driven decisions to improve patient care and operational efficiency.
-Executive Summary of Overview and Findings
+### Executive Summary of Overview and Findings
 The Hospital Dashboard offers a high-level overview of patient statistics, with data aggregated across multiple years. Key findings include a total patient count ranging from 645 to 1,995 depending on the year, with admission rates hovering around 49-50%. Average wait times vary between 39.94 and 40.33 minutes, while patient satisfaction scores consistently fall around 6.43-6.50 out of 10. The dashboard highlights trends in patient demographics, departmental referrals, and daily patient volumes, providing a snapshot that helps identify areas for immediate attention.
-Deep Dive Insights
-2021
+## Deep Dive Insights
+### 2021
 In 2021, the hospital recorded a total of 688 patients, with an admission rate of 49.56%. The average wait time stood at 39.67 minutes, and patient satisfaction was rated at 6.50 out of 10. Patient distribution by race showed a diverse mix, with Pacific Islanders at 110, Native Americans at 105, and Two or More Races at 103, while Declined to Identify, African American, and White patients were recorded at 94, 88, and 83 respectively. Departmental referrals were led by Cardiology with 106 patients, followed closely by General Practice at 102, and Neurology at 98. The gender split indicated 41.4% male and 58.6% female patients, with daily patient numbers fluctuating between 83 and 122. Age band analysis revealed a significant portion, 167 patients, fell below 19 or above 60, with other bands ranging from 75 to 155 patients.
-2022
+### 2022
 The year 2022 saw a notable increase, with 1,995 patients recorded, and an admission rate of 49.72%. Average wait time was slightly higher at 39.98 minutes, while patient satisfaction remained steady at 6.49 out of 10. Racial diversity was more pronounced, with Native Americans leading at 306, followed by Pacific Islanders at 295, and Asians at 293. Two or More Races, Declined to Identify, African American, and White patients were recorded at 292, 290, 251, and 251 respectively. Departmental referrals highlighted Cardiology with 314 patients, Neurology with 287, and None with 287, indicating a broad distribution. The gender breakdown was 42.7% male and 57.3% female, with daily patient counts ranging from 234 to 304. Age band data showed 485 patients below 19 or above 60, with the 40-49 age group at 274 and others ranging from 245 to 270.
-2023
+### 2023
 In 2023, the total patient count dropped to 645, with an admission rate rising to 50.23%. The average wait time was 39.94 minutes, and patient satisfaction improved slightly to 6.54 out of 10. Patient distribution by race included Native Americans at 104, Pacific Islanders at 93, and Asians at 92, with African Americans, Two or More Races, Declined to Identify, and White patients at 91, 89, 88, and 80 respectively. Departmental referrals were dominated by Gastroenterology with 119 patients, followed by Cardiology at 102, and Neurology at 89. The gender split was 45.5% male and 54.5% female, with daily patient numbers varying between 86 and 99. Age band analysis indicated 158 patients below 19 or above 60, with the 40-49 group at 149 and others ranging from 86 to 88.
-Recommendations
+### Recommendations
 
-Improve Wait Times: With average wait times consistently above 39 minutes, consider streamlining triage processes or increasing staff during peak hours to enhance patient experience.
-Boost Satisfaction Scores: Satisfaction scores below 6.5 suggest a need for improved patient care protocols or feedback mechanisms to address concerns.
-Targeted Resource Allocation: Departments like Cardiology and Gastroenterology, which see higher referral rates, may require additional resources to manage patient loads effectively.
-Demographic Focus: Analyze the increasing diversity in patient race data to ensure culturally sensitive care and adequate representation in staff training.
-Daily Load Management: Plan staffing and resources based on daily patient trends, with a focus on high-volume days like Fridays in 2022.
+1. **Improve Wait Times:** With average wait times consistently above 39 minutes, consider streamlining triage processes or increasing staff during peak hours to enhance patient experience.
+2. **Boost Satisfaction Scores:** Satisfaction scores below 6.5 suggest a need for improved patient care protocols or feedback mechanisms to address concerns.
+3. **Targeted Resource Allocation:** Departments like Cardiology and Gastroenterology, which see higher referral rates, may require additional resources to manage patient loads effectively.
+4. **Demographic Focus:** Analyze the increasing diversity in patient race data to ensure culturally sensitive care and adequate representation in staff training.
+5. **Daily Load Management:** Plan staffing and resources based on daily patient trends, with a focus on high-volume days like Fridays in 2022.
