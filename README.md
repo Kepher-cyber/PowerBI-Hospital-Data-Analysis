@@ -1,5 +1,6 @@
 # PowerBI-Hospital-Analysis
 A comprehensive data visualization dashboard using Power BI to monitor and analyze patient data.
+![Hospital Dashboard](https://github.com/Kepher-cyber/PowerBI-Hospital-Data-Analysis/blob/main/Screenshot%20(3863).png)
 ## Hospital Dashboard Project 
 ### Project Background
 This project was initiated to create a comprehensive data visualization dashboard using Power BI to monitor and analyze patient data for a hospital over the years 2021, 2023. The goal was to provide hospital administrators with an intuitive tool to track key metrics such as total patient numbers, admission rates, average wait times, and patient satisfaction. By leveraging real-time data, the dashboard aims to support data-driven decisions to improve patient care and operational efficiency.
